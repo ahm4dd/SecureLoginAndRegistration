@@ -3,6 +3,8 @@
 
 This report summarizes the key features of the provided C# WinForms application, which implements a secure login and registration system.
 
+**NOTE: The database files were sent to the instructor via Classroom**
+
 ## Table of Contents
 
 1.  [User Registration](#user-registration)
